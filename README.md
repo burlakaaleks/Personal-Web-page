@@ -1,4 +1,3 @@
 # Personal-Web-page
-Hello,
-today night I'm working with html and css, trying to create my own web-page.
-Next commits will be related to desing of it.
+Hello, this is my first try to do smth with html+css. I'm not a designer, so this website was created only for practice.
+Someday it will look better =)
